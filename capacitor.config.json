@@ -1,0 +1,13 @@
+{
+  "appId": "com.tanang.music",
+  "appName": "TANANG MUSIC",
+  "webDir": "www",
+  "server": {
+    "url": "https://tanang-music.vercel.app",
+    "cleartext": false
+  },
+  "android": {
+    "appendUserAgent": "TanangAPK/2.3",
+    "allowMixedContent": false
+  }
+}
